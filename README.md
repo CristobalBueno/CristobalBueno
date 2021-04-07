@@ -1,5 +1,5 @@
 # ¡Hola! Soy Cristóbal Bueno 
-#####  *Desarrollador Junior Python| iOS | Android | Apasionado del Machine Learning*
+#####  *Desarrollador Junior Android | Python | Apasionado del Machine Learning*
 ---------------------
 ### **¡Bienvenido a mi repositorio de Github!**
 #### Sobre mí:
